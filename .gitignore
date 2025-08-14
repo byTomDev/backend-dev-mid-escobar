@@ -1,0 +1,40 @@
+# Archivos generados por Node.js/TypeScript
+node_modules/
+dist/
+*.js
+*.js.map
+*.d.ts
+
+# Archivos de configuración local
+.env
+.env.local
+.env*.local
+
+# Archivos de IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de pruebas y cobertura
+coverage/
+*.lcov
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tmp
+
+# Archivos de SQL (si generaste algún dump durante el desarrollo)
+*.dump
+*.bak
+
+# Archivos específicos de tu proyecto (opcional)
+/src/**/*.js  # Ignora JS generados en src/ (si usas outDir diferente)
+!src/**/*.ts  # Pero incluye los TS
