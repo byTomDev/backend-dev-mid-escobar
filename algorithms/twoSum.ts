@@ -1,7 +1,7 @@
 /**
  * Encuentra los índices de dos números en un array que suman un valor objetivo
  */
-export function twoSum(
+function twoSum(
   numberList: number[],
   targetNumber: number
 ): [number, number] | null {
