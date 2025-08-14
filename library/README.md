@@ -1,4 +1,4 @@
-# Informe Técnico - Sistema de Gestión de Biblioteca
+# Justificación Técnica
 
 ## **1. Arquitectura del Proyecto**
 
