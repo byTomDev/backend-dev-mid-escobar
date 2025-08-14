@@ -74,10 +74,4 @@ Archivos ignorados según lenguaje.
 
 ## Cómo probar o ejecutar lo desarrollado
 
-Para probar o ejecutar los desarrollos de cada punto, sigue estas instrucciones, las cuales están punto por punto:
-
-### Punto 1: Diseño de base de datos para plataforma de blogs
-
-### Punto 2: Función de suma de dos números
-
-### Punto 3: Sistema de gestión de bibliotecas
+Cada carpeta del proyecto incluye un archivo que contiene las instrucciones para ejecutar los desarrollos y las justificaciones técnicas, permitiendo probar cada módulo de forma independiente y comprender claramente las decisiones de diseño e implementación.
